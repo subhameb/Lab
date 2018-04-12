@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Demo-Arrays/src"/>
+	<classpathentry kind="src" path="Hello-World_IDE/src"/>
+	<classpathentry kind="src" path="Workspace/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Demo-Arrays/bin"/>
+</classpath>
